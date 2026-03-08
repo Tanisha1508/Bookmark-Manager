@@ -1,3 +1,6 @@
+# Access it here:
+https://ais-pre-i32yv3647ge62touw7cb7v-126036634412.asia-southeast1.run.app/
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
