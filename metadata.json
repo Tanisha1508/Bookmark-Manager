@@ -1,0 +1,5 @@
+{
+  "name": "Bookmark Manager",
+  "description": "A personal bookmark manager to save and organize URLs by tags.",
+  "requestFramePermissions": []
+}
